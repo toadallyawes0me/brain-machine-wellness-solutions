@@ -1,9 +1,13 @@
 body {
-    background-image: url(../Assets/img/solid-color-image.png);
-    color: white;
-    
+
+    background: linear-gradient(90deg, rgba(26,58,106,1) 42%, rgba(29,85,156,1) 61%);
+    color: white;    
 }
 .widthTeam {
-   width: 8rem;
-   height: 8rem;}
+   width: 10rem;
+   height: 10rem;
+}
+
+.widthsolid { 
+    width: ;
 }
