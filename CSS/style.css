@@ -2,4 +2,9 @@ body {
   background: linear-gradient(90deg, rgb(26, 58, 106) 42%, rgb(29, 85, 156) 61%);
 }
 
+.widthTeam {
+  width: 10rem;
+  height: 10rem;
+}
+
 /*# sourceMappingURL=style.css.map */
