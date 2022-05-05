@@ -1,10 +1,21 @@
 body {
-  background: linear-gradient(90deg, rgb(26, 58, 106) 42%, rgb(29, 85, 156) 61%);
+  background: linear-gradient(90deg, #1a3a6b 42%, rgb(29, 85, 156) 61%);
 }
 
 .widthTeam {
   width: 10rem;
   height: 10rem;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav ul li {
+  display: inline-block;
+  margin-left: -2px;
+  margin-right: 2em;
 }
 
 /*# sourceMappingURL=style.css.map */

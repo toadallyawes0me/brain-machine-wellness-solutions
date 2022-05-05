@@ -2,3 +2,16 @@
     width: 10rem;
     height: 10rem;
  }
+
+ $vista:mobile;
+
+ body{
+     @if $vista == desktop {
+         @media only screen and (min-width: 1024px){
+             h1{font-size:$h1Desktop;}
+             h3{font-size:35px;}
+             p{font-size:$parrafoDesktop;}
+         }
+     }
+     
+ }
